@@ -6,7 +6,7 @@ form.addEventListener('submit', (e) => {
     e.preventDefault();
 
     // Format pesan
-    const phoneNumber = '6281263441204'; // nomor ponsel penerima
+    const phoneNumber = '6282246402832'; // nomor ponsel penerima
     const message = `Kategori: ${kategori.value}%0A Keluhan: ${keluhan.value}`; // isi pesan
 
     // Buat tautan WhatsApp
